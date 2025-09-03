@@ -1,0 +1,119 @@
+{
+    "Aimbot": {
+        "CurrentAimPosIndex": 0,
+        "CurrentHotKeyIndex": 5,
+        "TeamCheck": true,
+        "enableAimbot": true,
+        "enableHotKey": true
+    },
+    "Esp": {
+        "BonesColor": [
+            1.0,
+            0.06164383888244629,
+            0.0,
+            1.0
+        ],
+        "BonesThickness": 0.5,
+        "BoxColor": [
+            0.0,
+            1.0,
+            0.8784314393997192,
+            1.0
+        ],
+        "BoxThickness": 1.7000000476837158,
+        "C4BoxThickness": 2.5,
+        "C4_Box_Color": [
+            1.0,
+            0.0,
+            0.0,
+            0.501960813999176
+        ],
+        "C4_Distance_Text_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "Chicken_Text_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "DistanceColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "HeadColor": [
+            1.0,
+            0.020547926425933838,
+            0.0,
+            1.0
+        ],
+        "HeadFilled": false,
+        "LinesColor": [
+            0.0,
+            1.0,
+            0.5490196347236633,
+            1.0
+        ],
+        "LinesThickness": 1.5,
+        "NameColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "Projectiles_Text_Color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "ShowBoneJoints": false,
+        "Weapon_Esp_Text_Color": [
+            1.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "World_Entities_BoxColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "currentBoxDimensionIndex": 0,
+        "currentlinePosIndex": 2,
+        "enableBombEsp": true,
+        "enableC4Box": true,
+        "enableC4Distance": true,
+        "enableC4StatusEsp": true,
+        "enableChickensEsp": true,
+        "enableDistanceEsp": false,
+        "enableDroppedWeaponEsp": true,
+        "enableEspArmorBar": true,
+        "enableEspBones": true,
+        "enableEspBoxes": false,
+        "enableEspHealthBar": true,
+        "enableEspHealthPointsText": false,
+        "enableEspLines": false,
+        "enableEspNames": true,
+        "enableHostagesEsp": true,
+        "enablePlayerEsp": true,
+        "enableProjectilesEsp": true,
+        "enableTeamCheck": true,
+        "enableWorldEsp": false
+    },
+    "RCS": {
+        "enableRCS": false
+    },
+    "TriggerBot": {
+        "CurrentHotkeyIndex": 4,
+        "enableHotKey": true,
+        "enableTeamCheck": true,
+        "enableTriggerbot": true
+    }
+}
